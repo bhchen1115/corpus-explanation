@@ -20,7 +20,7 @@ Description:
 - Filename: **interrogation-ws.zip**  
 Last update: Feb. 3rd  
 Description:
-  - We extract conversations from json files and then segment words in each sentence.
+  - We extract conversations from json files and then segment words (via [CKIP](https://github.com/ckiplab/ckiptagger)) in each sentence.
   - Results are in txt format.
   - Each line follows the format:  
   `<q_or_a> <q_type> <word_1> <word_2> ... <word_n>`
