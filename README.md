@@ -33,7 +33,7 @@ Description:
   - A collection of 700 games of Mafia.
   - Detailed in paper [The Mafiascum Dataset: A Large Text Corpus for Deception Detection](https://arxiv.org/abs/1811.07851).
 
-![Samples of Mafiascum Corpus](https://raw.githubusercontent.com/bhchen1115/corpus-explanation/master/screenshots/mafia.png)
+![Samples of Mafiascum Corpus](https://raw.githubusercontent.com/bhchen1115/corpus-explanation/master/screenshots/mafiascum.png)
 
 ### Phishing
 
