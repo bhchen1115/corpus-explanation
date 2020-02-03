@@ -15,7 +15,7 @@ Last update: Feb. 3rd
 Description:
   - Contains 496 original json files, from case id 001 to 498. We don't have files of case id 106 and 156.
   - Consists of 226 deceptive cases and 270 honest cases.
-  - Meaning of labels of each json file is described [here](interrogation-field-explanation.md).
+  - Meaning of fields of each json file is described [here](interrogation-field-explanation.md).
   - Caution that all "numbers" in json files are not numbers. They are strings actually.
 - Filename: **interrogation-ws.zip**  
 Last update: Feb. 3rd  
