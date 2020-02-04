@@ -39,5 +39,7 @@ Description:
 
 - Filename: **phishing.json**  
 Last Update: Feb. 3rd  
+Description:
+  - Detailed in paper [Learning to Detect Phishing Emails](https://wwwconference.org/www2007/papers/paper550.pdf)
 
 ![Samples of Phishing Corpus](https://raw.githubusercontent.com/bhchen1115/corpus-explanation/master/screenshots/phishing.png)
