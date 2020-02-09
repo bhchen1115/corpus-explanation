@@ -17,6 +17,7 @@ Description:
   - Consists of 226 deceptive cases and 270 honest cases.
   - Meaning of fields of each json file is described [here](interrogation-field-explanation.md).
   - Caution that all "numbers" in json files are not numbers. They are strings actually.
+  - \*\*\* Important \*\*\* Don't use the "react-more" field in json files. The filed should be discarded.
 - Filename: **interrogation-ws.zip**  
 Last update: Feb. 3rd  
 Description:
